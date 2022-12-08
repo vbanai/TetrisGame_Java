@@ -31,7 +31,7 @@ public class MainWindow {
 
 
 	/**
-	 * Launch the application.
+	 * Launching the application.
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
